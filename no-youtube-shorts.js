@@ -3,8 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @homepage     https://github.com/spdqbr/spdqbr-greasmonkey-scripts
 // @updateURL    https://raw.githubusercontent.com/spdqbr/spdqbr-greasmonkey-scripts/stable/no-youtube-shorts.js
-// @updateURL    https://raw.githubusercontent.com/spdqbr/spdqbr-greasmonkey-scripts/stable/no-youtube-shorts.js
-// @downloadURL
+// @downloadURL  https://raw.githubusercontent.com/spdqbr/spdqbr-greasmonkey-scripts/stable/no-youtube-shorts.js
 // @version      1.0
 // @description  Add scrub bar to Youtube shorts
 // @author       spdqbr@gmail.com
